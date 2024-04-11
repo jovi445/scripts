@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Diretórios
+
 export SCRIPTS=$HOME/Documentos/Programação/Scripts
 
 export PROJETOS=$HOME/Documentos/Programação/Projetos
