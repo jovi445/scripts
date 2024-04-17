@@ -4,7 +4,9 @@
 
 alias shellscripts='code $SCRIPTS && cd --'
 
-alias backup='cd $SCRIPTS && ./backup_programação.sh && cd --'
+alias backup-pendrive='cd $SCRIPTS && ./backup_programação.sh && cd --'
+
+alias backup-servidor=''
 
 alias atualizar='cd $HOME && source .bashrc && cd --'
 
