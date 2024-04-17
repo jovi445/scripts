@@ -6,7 +6,7 @@ alias shellscripts='code $SCRIPTS && cd --'
 
 alias backup-pendrive='cd $SCRIPTS && ./backup_programação.sh && cd --'
 
-alias backup-servidor=''
+alias backup-servidor='scp -r $HOME/Documentos/Programação joaov@192.168.100.7:/home/joaov'
 
 alias atualizar='cd $HOME && source .bashrc && cd --'
 
