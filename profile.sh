@@ -2,7 +2,7 @@
 
 # Diretórios
 
-export SCRIPTS=$HOME/Documentos/Programação/Scripts
+export SCRIPTS=$HOME/Documentos/Programação/scripts
 
 export PROJETOS=$HOME/Documentos/Programação/Projetos
 
