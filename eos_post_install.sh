@@ -11,7 +11,7 @@ echo "========================================================================="
 echo "========================================================================="
 echo "Habilitando Flatpak..."
 echo "========================================================================="
-sudo pacman -S -y flatpak
+sudo pacman -S --noconfirm flatpak
 
 flatpak remote-add -y --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
@@ -37,7 +37,7 @@ echo "========================================================================="
 echo "Enviando TLauncher para Downloads via wget..."
 echo "========================================================================="
 
-wget -O $HOME/Downloads -y https://dl2.tlauncher.org/f.php?f=files%2FTLauncher.v10.zip
+wget -O $HOME/Downloads https://dl2.tlauncher.org/f.php?f=files%2FTLauncher.v10.zip
 
 # Mensagem de término
 
