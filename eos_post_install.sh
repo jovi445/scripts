@@ -39,6 +39,12 @@ echo "========================================================================="
 
 wget -O $HOME/Downloads https://dl2.tlauncher.org/f.php?f=files%2FTLauncher.v10.zip
 
+echo "========================================================================="
+echo "Modificando Arquivo de configuração do X11 para habilitar Scrollock..."
+echo "========================================================================="
+sudo sed -i '82s|.*|modifier_map Mod3 { Scroll_Lock };|' \
+/usr/share/X11/xkb/symbols/pc
+
 # Mensagem de término
 
 echo "========================================================================="
