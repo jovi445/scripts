@@ -2,7 +2,7 @@
 
 ## Ambiente e Scripts Internos
 
-alias shellscripts='codium $SCRIPTS && cd'
+alias shellscripts='code $SCRIPTS && cd'
 
 #Backup
 
