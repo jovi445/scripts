@@ -3,6 +3,7 @@
 ## Ambiente e Scripts Internos
 
 alias shellscripts='code $SCRIPTS && cd'
+alias servidor='ssh joaov@192.168.100.7'
 
 #Backup
 
