@@ -4,6 +4,8 @@
 
 alias shellscripts='code $SCRIPTS && cd'
 
+alias minecraft='cd $HOME/Área\ de\ trabalho/ && java -jar TLauncher.jar && cd'
+
 #Backup
 
 alias backup='cd $SCRIPTS && ./backup_programação.sh && cd'
