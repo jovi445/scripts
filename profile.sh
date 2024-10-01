@@ -8,4 +8,4 @@ export PROJETOS=$HOME/Documentos/Programação/Projetos
 
 export ESCOLA=$HOME/Documentos/Programação/Escola
 
-export CURSO=$HOME/Documentos/Programação/Curso
+export ESTUDOS=$HOME/Documentos/Programação/Estudos
