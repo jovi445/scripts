@@ -8,7 +8,7 @@ alias tlauncher='cd $HOME/Área\ de\ trabalho/ && java -jar TLauncher.jar && cd'
 
 #Backup
 
-alias backup='cd $SCRIPTS && ./backup_programação.sh && cd''
+alias backup='cd $SCRIPTS && ./backup_programação.sh && cd'
 
 
 
