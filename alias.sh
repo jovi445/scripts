@@ -8,9 +8,7 @@ alias tlauncher='cd $HOME/Área\ de\ trabalho/ && java -jar TLauncher.jar && cd'
 
 #Backup
 
-alias backup='cd $SCRIPTS && ./backup_programação.sh && cd'
-
-alias desmontar='umount UUID=2CB0-554D'
+alias backup='cd $SCRIPTS && ./backup_programação.sh && cd''
 
 
 
