@@ -2,10 +2,10 @@
 
 # Diretórios
 
-export SCRIPTS=$HOME/Documentos/Programação/scripts
+export HDD=/mnt/HDD-1TB
 
-export PROJETOS=$HOME/Documentos/Programação/Projetos
+export SCRIPTS=$HDD/Programação/scripts
 
-export ESCOLA=$HOME/Documentos/Programação/Escola
+export PROJETOS=$HDD/Programação/Projetos
 
-export ESTUDOS=$HOME/Documentos/Programação/Estudos
+export ESTUDOS=$HDD/Programação/Estudos
