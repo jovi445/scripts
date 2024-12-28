@@ -2,7 +2,7 @@
 
 ## Ambiente e Scripts Internos
 
-alias shellscripts='code $SCRIPTS && cd'
+alias shellscripts='code-oss $SCRIPTS && cd'
 
 #Backup
 
