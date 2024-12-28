@@ -3,7 +3,7 @@
 # Variáveis de Ambiente
 
 DATE=$(date +"%Y%m%d_%H%M%S")
-BACKUP_DIR="/media/$USER/BACKUPS"
+BACKUP_DIR="/media/$USER/Ventoy/Backups"
 SOURCE_DIR="$HDD/Programação"
 
 # Compactação
