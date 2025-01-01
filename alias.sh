@@ -2,7 +2,7 @@
 
 ## Ambiente e Scripts Internos
 
-alias shellscripts='code-oss $SCRIPTS && cd'
+alias shellscripts='flatpak run com.visualstudio.code $SCRIPTS && cd'
 
 #Backup
 
