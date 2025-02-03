@@ -2,7 +2,7 @@
 
 ## Ambiente e Scripts Internos
 
-alias shellscripts='flatpak run com.visualstudio.code $SCRIPTS && cd'
+alias shellscripts='code $SCRIPTS && cd'
 
 #Backup
 
