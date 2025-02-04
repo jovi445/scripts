@@ -4,4 +4,4 @@
 
 export HD=/mnt/HD-1TB
 
-export SCRIPTS=$HOME/Documentos/scripts
+export SCRIPTS=$HD/Programação/scripts
